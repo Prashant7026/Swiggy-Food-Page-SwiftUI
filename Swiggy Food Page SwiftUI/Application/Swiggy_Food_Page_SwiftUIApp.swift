@@ -11,7 +11,7 @@ import SwiftUI
 struct Swiggy_Food_Page_SwiftUIApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            FoodPageScreenView()
         }
     }
 }
